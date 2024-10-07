@@ -28,7 +28,7 @@ HELP_COMMAND = get_command("HELP_COMMAND")
 COLUMN_SIZE = 4  # number of  button height
 NUM_COLUMNS = 3  # number of button width
 
-donate = "https://envs.sh/Skk.jpg"
+donate = "https://envs.sh/Ip3.jpg"
 
 
 class EqInlineKeyboardButton(InlineKeyboardButton):
@@ -344,8 +344,8 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="🎁ɪɴsᴛᴀ🎁", url=f"instagram.com/the.vip.boy"),
-            InlineKeyboardButton(text="💲ʏᴏᴜᴛᴜʙᴇ💲", url=f"youtube.com/@THE_VIP_BOY"),
+            InlineKeyboardButton(text="🎁ɪɴsᴛᴀ🎁", url=f"instagram.com/saqib._.malik._.4f"),
+            InlineKeyboardButton(text="💲ʏᴏᴜᴛᴜʙᴇ💲", url=f"youtube.com/@xexo_kakarot"),
         ],
         [
             InlineKeyboardButton(text="🔙 Back", callback_data="about")
@@ -361,13 +361,13 @@ async def feature_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
             InlineKeyboardButton(
-                text="⚜️ ᴋɪᴅɴᴀᴘ ᴍᴇ ɪɴ ɴᴇᴡ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ⚜️",
+                text=" ᴋɪᴅɴᴀᴘ ᴍᴇ ɪɴ ɴᴇᴡ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ",
                 url=f"https://t.me/{app.username}?startgroup=true",
             ),
         ],
         [
-            InlineKeyboardButton(text="🎧 ᴍᴜsɪᴄ 🎧", callback_data="music"),
-            InlineKeyboardButton(text="♻️ ᴀʟʟ ♻️", callback_data="settings_back_helper"),
+            InlineKeyboardButton(text=" ᴍᴜsɪᴄ ", callback_data="music"),
+            InlineKeyboardButton(text=" ᴀʟʟ ", callback_data="settings_back_helper"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
     ]
@@ -430,13 +430,13 @@ async def feature_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
             InlineKeyboardButton(
-                text="⚜️ ᴋɪᴅɴᴀᴘ ᴍᴇ ɪɴ ɴᴇᴡ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ⚜️",
+                text=" ᴋɪᴅɴᴀᴘ ᴍᴇ ɪɴ ɴᴇᴡ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ",
                 url=f"https://t.me/{app.username}?startgroup=true",
             ),
         ],
         [
-            InlineKeyboardButton(text="🎧 ᴍᴜsɪᴄ 🎧", callback_data="music"),
-            InlineKeyboardButton(text="♻️ ᴀʟʟ ♻️", callback_data="settings_back_helper"),
+            InlineKeyboardButton(text=" ᴍᴜsɪᴄ ", callback_data="music"),
+            InlineKeyboardButton(text=" ᴀʟʟ ", callback_data="settings_back_helper"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
     ]
@@ -482,10 +482,10 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
 async def back_button_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
-            InlineKeyboardButton(text="🎭ᴏᴡɴᴇʀ🎭", user_id=config.OWNER_ID[0]),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=config.OWNER_ID[0]),
             InlineKeyboardButton(
-                text="🌱ɢɪᴛʜᴜʙ🌱",
-                url="https://github.com/THE-VIP-BOY-OP",
+                text="ɢɪᴛʜᴜʙ",
+                url="https://github.com/Gokukhan1",
             ),
         ],
         [
