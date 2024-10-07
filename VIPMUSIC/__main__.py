@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2024 by THE-VIP-BOY-OP@Github, < https://github.com/THE-VIP-BOY-OP >.
+# Copyright (C) 2024 by Gokukhan1@Github, < https://github.com/Gokukhan1 >.
 #
 # This file is part of < https://github.com/THE-VIP-BOY-OP/VIP-MUSIC > project,
 # and is released under the MIT License.
